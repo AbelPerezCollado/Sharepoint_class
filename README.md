@@ -3,7 +3,7 @@
 ## Objetivo 🖥
 Clase para conectarnos a nuestro Sharepoint y poder automatizar la creación de carpetas y subida de archivos.
 
-##Requisitos ⚙️
+## Requisitos ⚙️
 Instalar los paquetes necesarios:
 > `pip install office365`
 
@@ -20,7 +20,7 @@ En el archivo `config.py` configurar los siguientes parametros:
 > PATH = '**THE PATH HERE **'
 > 
 
-##Tecnologia empleada 🛠️
+## Tecnologia empleada 🛠️
 * [Python](https://www.python.org/downloads/) - 3.11.0
 
 ## Desarrollador ⌨️
